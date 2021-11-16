@@ -25,5 +25,5 @@ Provavlmente vamos aprender este ano
 #### My WebSite
 [WebSite](https://M-MarVeL.github.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-marvel&label=Views&color=6a0dad&style=preserve-3d" alt="m-marvel" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=m-marvel&label=Views&color=6a0dad&style=preserve-3d" alt="m-marvel" /> </p>
 
